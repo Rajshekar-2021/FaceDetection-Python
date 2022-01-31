@@ -1,1 +1,2 @@
-# FaceDetection-Python
+# FaceDetection-opencv-mediapipe
+ 
